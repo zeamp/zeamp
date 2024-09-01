@@ -4,7 +4,7 @@
 
 <h3 align="left">Check out my links on TabPages:</h3>
 <p align="left">
-<a href="https://tabpages.com/ze" target="blank">tabpages.com/ze</a>
+<a href="https://linkhue.com/ze" target="blank">linkhue.com/ze</a>
 </p>
 
 <!-- A staff meeting, but everyone's required to bring an actual staff. -->
